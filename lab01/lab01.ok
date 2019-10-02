@@ -1,6 +1,6 @@
 {
   "name": "Lab 1: Expressions",
-  "endpoint": "ucsb/int5/fa18/lab01",
+  "endpoint": "ucsb/int5/fa19/lab01",
   "src": [
     "int5-lab01.ipynb"
   ],
