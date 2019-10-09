@@ -8,7 +8,7 @@ test = {
           'code': r"""
           >>> import math
           >>> round(total, 3)
-          22255.409
+          111277.046
           """,
           'hidden': False,
           'locked': False
