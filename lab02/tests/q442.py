@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> all(annual_growth_rates == (changed/initials)-1)
+          >>> all(np.isclose(annual_growth_rates,(changed/initials) - 1))
           True
           """,
           'hidden': False,
