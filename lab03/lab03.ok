@@ -1,6 +1,6 @@
 {
   "name": "Lab 3: Tables",
-  "endpoint": "ucsb/int5/fa18/lab03",
+  "endpoint": "ucsb/int5/fa19/lab03",
   "src": [
     "lab03.ipynb"
   ],

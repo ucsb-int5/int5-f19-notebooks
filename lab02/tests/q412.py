@@ -24,6 +24,7 @@ test = {
         {
           'code': r"""
           >>> import numpy as np
+          >>> import math
           >>> all(interesting_numbers == np.array([0, 1, -1, math.pi, math.e]))
           True
           """,
