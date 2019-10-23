@@ -1,0 +1,12 @@
+{
+  "name": "Lab 4: Tables Review",
+  "endpoint": "ucsb/int5/fa19/lab04_practice",
+  "src": [
+    "lab04_practice.ipynb"
+  ],
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
