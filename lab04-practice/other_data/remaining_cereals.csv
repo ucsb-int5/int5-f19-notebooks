@@ -1,0 +1,38 @@
+name,type,calories,protein,fat,sodium,fiber,carbo,sugars,weight,cups
+Kix,C,110,2,1,260,0.0,21.0,3,1.0,1.5
+Life,C,100,4,2,150,2.0,12.0,6,1.0,0.67
+Lucky Charms,C,110,2,1,180,0.0,12.0,12,1.0,1.0
+Maypo,H,100,4,1,0,0.0,16.0,3,1.0,1.0
+Muesli Raisins; Dates; & Almonds,C,150,4,3,95,3.0,16.0,11,1.0,1.0
+Muesli Raisins; Peaches; & Pecans,C,150,4,3,150,3.0,16.0,11,1.0,1.0
+Mueslix Crispy Blend,C,160,3,2,150,3.0,17.0,13,1.5,0.67
+Multi-Grain Cheerios,C,100,2,1,220,2.0,15.0,6,1.0,1.0
+Nut&Honey Crunch,C,120,2,1,190,0.0,15.0,9,1.0,0.67
+Nutri-Grain Almond-Raisin,C,140,3,2,220,3.0,21.0,7,1.33,0.67
+Nutri-grain Wheat,C,90,3,0,170,3.0,18.0,2,1.0,1.0
+Oatmeal Raisin Crisp,C,130,3,2,170,1.5,13.5,10,1.25,0.5
+Post Nat. Raisin Bran,C,120,3,1,200,6.0,11.0,14,1.33,0.67
+Product 19,C,100,3,0,320,1.0,20.0,3,1.0,1.0
+Puffed Rice,C,50,1,0,0,0.0,13.0,0,0.5,1.0
+Puffed Wheat,C,50,2,0,0,1.0,10.0,0,0.5,1.0
+Quaker Oat Squares,C,100,4,1,135,2.0,14.0,6,1.0,0.5
+Quaker Oatmeal,H,100,5,2,0,2.7,-1.0,-1,1.0,0.67
+Raisin Bran,C,120,3,1,210,5.0,14.0,12,1.33,0.75
+Raisin Nut Bran,C,100,3,2,140,2.5,10.5,8,1.0,0.5
+Raisin Squares,C,90,2,0,0,2.0,15.0,6,1.0,0.5
+Rice Chex,C,110,1,0,240,0.0,23.0,2,1.0,1.13
+Rice Krispies,C,110,2,0,290,0.0,22.0,3,1.0,1.0
+Shredded Wheat,C,80,2,0,0,3.0,16.0,0,0.83,1.0
+Shredded Wheat 'n'Bran,C,90,3,0,0,4.0,19.0,0,1.0,0.67
+Shredded Wheat spoon size,C,90,3,0,0,3.0,20.0,0,1.0,0.67
+Smacks,C,110,2,1,70,1.0,9.0,15,1.0,0.75
+Special K,C,110,6,0,230,1.0,16.0,3,1.0,1.0
+Strawberry Fruit Wheats,C,90,2,0,15,3.0,15.0,5,1.0,1.0
+Total Corn Flakes,C,110,2,1,200,0.0,21.0,3,1.0,1.0
+Total Raisin Bran,C,140,3,1,190,4.0,15.0,14,1.5,1.0
+Total Whole Grain,C,100,3,1,200,3.0,16.0,3,1.0,1.0
+Triples,C,110,2,1,250,0.0,21.0,3,1.0,0.75
+Trix,C,110,1,1,140,0.0,13.0,12,1.0,1.0
+Wheat Chex,C,100,3,1,230,3.0,17.0,3,1.0,0.67
+Wheaties,C,100,3,1,200,3.0,17.0,3,1.0,1.0
+Wheaties Honey Gold,C,110,2,1,200,1.0,16.0,8,1.0,0.75
