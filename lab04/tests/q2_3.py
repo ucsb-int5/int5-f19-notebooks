@@ -6,8 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> import math
-          >>> math.isclose(square(2.5), 6.25)
+          >>> abs(square(2.5) - 6.25) < 0.1
           True
           """,
           'hidden': False,

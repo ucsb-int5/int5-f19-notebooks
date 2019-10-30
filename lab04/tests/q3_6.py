@@ -15,11 +15,10 @@ test = {
         },
         {
           'code': r"""
-          >>> import math
           >>> # You have the column, but some of your values may be wrong
           >>> t = with_previous_compensation.sort("2014 Total Pay ($)", descending = True)
           >>> value = t.column("2014 Total Pay ($)").item(0)
-          >>> math.isclose(value, 67700000.0, rel_tol = 1000)
+          >>> abs(value - 67700000.0) < 1e-1
           True
           """,
           'hidden': False,

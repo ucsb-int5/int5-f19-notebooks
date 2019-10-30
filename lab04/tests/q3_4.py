@@ -14,8 +14,7 @@ test = {
         },
         {
           'code': r"""
-          >>> import math
-          >>> math.isclose(cash_proportion.item(0), 0.01784038, rel_tol = .001)
+          >>> abs(cash_proportion.item(0) - 0.01784038) < .001
           True
           """,
           'hidden': False,
