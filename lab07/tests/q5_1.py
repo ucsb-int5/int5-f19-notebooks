@@ -2,12 +2,14 @@ test = {   'name': 'q5_1',
     'points': 2,
     'suites': [   {   'cases': [   {   'code': '>>> 54.93 < '
                                                'two_minute_predicted_waiting_time '
-                                               '< 54.94\n',
+                                               '< 54.94\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> 87.12 < '
                                                'five_minute_predicted_waiting_time '
-                                               '< 87.13\n',
+                                               '< 87.13\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,

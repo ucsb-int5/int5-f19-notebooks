@@ -4,7 +4,8 @@ test = {   'name': 'q2_3',
                                                'np.isclose(expected_value_card, '
                                                'np.sum(np.arange(1,14)) * '
                                                'prob_non_joker + 14 * '
-                                               'prob_joker)\n',
+                                               'prob_joker)\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
