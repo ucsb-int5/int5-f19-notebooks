@@ -1,0 +1,12 @@
+test = {   'name': 'q1_7',
+    'points': 2,
+    'suites': [   {   'cases': [   {   'code': '>>> high_farmers.num_rows\n282',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> low_farmers.num_rows\n1200',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
