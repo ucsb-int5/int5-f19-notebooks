@@ -1,0 +1,12 @@
+test = {   'name': 'q1_get_day',
+    'points': 2,
+    'suites': [   {   'cases': [   {   'code': '>>> get_day_in_month(1231)\n',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> get_day_in_month(101)\n',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

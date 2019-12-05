@@ -1,0 +1,1 @@
+{"name": "project2", "endpoint": "ucsb/int5/fa19/project2", "src": ["project2.ipynb"], "tests": {"tests/q*.py": "ok_test"}, "protocols": ["file_contents", "grading", "backup"]}
